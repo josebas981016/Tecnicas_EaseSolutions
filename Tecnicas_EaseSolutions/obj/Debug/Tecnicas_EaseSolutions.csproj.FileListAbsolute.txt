@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Tecnicas_EaseSolutions\Tecnicas_EaseSolutions\bin\Debug\Tecnicas_EaseSolutions.exe.config
+C:\Users\User\source\repos\Tecnicas_EaseSolutions\Tecnicas_EaseSolutions\bin\Debug\Tecnicas_EaseSolutions.exe
+C:\Users\User\source\repos\Tecnicas_EaseSolutions\Tecnicas_EaseSolutions\bin\Debug\Tecnicas_EaseSolutions.pdb
+C:\Users\User\source\repos\Tecnicas_EaseSolutions\Tecnicas_EaseSolutions\obj\Debug\Tecnicas_EaseSolutions.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tecnicas_EaseSolutions\Tecnicas_EaseSolutions\obj\Debug\Tecnicas_EaseSolutions.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Tecnicas_EaseSolutions\Tecnicas_EaseSolutions\obj\Debug\Tecnicas_EaseSolutions.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tecnicas_EaseSolutions\Tecnicas_EaseSolutions\obj\Debug\Tecnicas_EaseSolutions.exe
+C:\Users\User\source\repos\Tecnicas_EaseSolutions\Tecnicas_EaseSolutions\obj\Debug\Tecnicas_EaseSolutions.pdb
